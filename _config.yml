@@ -1,3 +1,14 @@
 remote_theme: le4ker/personal-jekyll-theme
 plugins:
   - jekyll-remote-theme
+navigation:
+  - text: "Home"
+    url: /
+  - text: "CV"
+    url: /cv/
+  - text: "Research"
+    url: /research/
+  - text: "Teaching"
+    url: /teaching/
+  - text: "Articles & Interviews"
+    url: /articles/
