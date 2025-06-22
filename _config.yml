@@ -1,0 +1,3 @@
+remote_theme: le4ker/personal-jekyll-theme
+plugins:
+  - jekyll-remote-theme
