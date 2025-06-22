@@ -5,6 +5,7 @@ title: "Professor Pushan Dutt"
 
 # Pushan Dutt  
 Professor of Economics and Political Science  
+INSEAD
 
 Welcome to my academic homepage.
 
