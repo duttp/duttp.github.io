@@ -1,5 +1,5 @@
 remote_theme: le4ker/personal-jekyll-theme
-plugins:
+plugins: 
   - jekyll-remote-theme
 navigation:
   - text: "Home"
