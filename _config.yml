@@ -1,14 +1,7 @@
-remote_theme: le4ker/personal-jekyll-theme
-plugins: 
+title: "Professor AI Research"
+url: "https://duttp.github.io/"    # full URL, no trailing slash
+
+remote_theme: le4ker/personal-jekyll-theme@v9.0.0
+
+plugins:
   - jekyll-remote-theme
-navigation:
-  - text: "Home"
-    url: /
-  - text: "CV"
-    url: /cv/
-  - text: "Research"
-    url: /research/
-  - text: "Teaching"
-    url: /teaching/
-  - text: "Articles & Interviews"
-    url: /articles/
