@@ -1,12 +1,7 @@
 ---
-layout: default
-title: "Professor Pushan Dutt"
+layout: home     # ← "home", not "default"
+title: "Pushan Dutt"
 ---
-
-# Pushan Dutt  
-Professor of Economics and Political Science  
-INSEAD
-
 Welcome to my academic homepage.
 
-*(Add or edit sections below this line as you like.)*
+(Add or edit sections below this line as you like.)
